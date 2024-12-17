@@ -83,3 +83,7 @@ To satisfy this need Node.js uses Buffer to handle the binary data
 
 
 ```
+
+to divide a number to its half in binary is just remove the least significant digit and then move other value their
+
+like here 11110 for 30 in decimal ===> 1111 for 15
