@@ -87,3 +87,13 @@ To satisfy this need Node.js uses Buffer to handle the binary data
 to divide a number to its half in binary is just remove the least significant digit and then move other value their
 
 like here 11110 for 30 in decimal ===> 1111 for 15
+
+
+3 different ways to do the same things
+
+90% or 99% of the time stick with promises api
+
+and when you wany really maximum amount of performance, a intensive cpu task use callback api
+
+only use when you are dead sure to use it - synchronous api
+
