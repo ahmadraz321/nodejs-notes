@@ -95,5 +95,5 @@ like here 11110 for 30 in decimal ===> 1111 for 15
 
 and when you wany really maximum amount of performance, a intensive cpu task use callback api
 
-only use when you are dead sure to use it - synchronous api
+only use when you are dead sure to use it - synchronous api mostly avoid it
 
